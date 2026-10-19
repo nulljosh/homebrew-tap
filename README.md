@@ -1,8 +1,10 @@
-# homebrew-plank
+# homebrew-tap
 
 ```
-brew install nulljosh/plank/plank-lang
-plank run hello.pk
+brew install nulljosh/tap/plank-lang
+brew install nulljosh/tap/nimble
 ```
 
-The formula installs `plank.py` as `plank`. It needs `uv` (installed as a dependency) and a C compiler for linking; the first run fetches llvmlite on its own.
+`plank-lang` installs `plank.py` as `plank`. It needs `uv` (installed as a dependency) and a C compiler for linking; the first run fetches llvmlite on its own.
+
+`nimble` gives you `nimble "question"` in the terminal.
