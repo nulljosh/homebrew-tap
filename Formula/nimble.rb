@@ -1,8 +1,8 @@
 class Nimble < Formula
   desc "One-sentence answers from the command line"
   homepage "https://nimble.jaybulb.com"
-  url "https://github.com/nulljosh/nimble/archive/refs/tags/v9.7.1.tar.gz"
-  sha256 "fc36e561eb9b67bb40a82049797547dd5c996a81f0c4617d95f9258530e84c38"
+  url "https://github.com/nulljosh/nimble/archive/refs/tags/v9.8.0.tar.gz"
+  sha256 "fbccbf624c82e1aa808909aa8774c865d370a96d01151f858cee5c01d69ba1e5"
   license "MIT"
 
   depends_on "node"
