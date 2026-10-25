@@ -1,6 +1,6 @@
 cask "hermes" do
-  version "8.0.0"
-  sha256 "d81902b7cd30a5097206fe3f3235d510fe4b29632f3a608fa7ae10015e149801"
+  version "9.0.0"
+  sha256 "40a21a1dc7a8edc41302ef634e51b47f3444ce6e4f848bd253c0ee361191381b"
 
   url "https://github.com/nulljosh/hermes/releases/download/v#{version}/Hermes.dmg"
   name "Hermes"
