@@ -1,6 +1,6 @@
 cask "cyllene" do
-  version "10.9.0"
-  sha256 "51279d0cd3d47780fe467fec851bf2e11fcb9df2445c67a6e9b6d26373022e24"
+  version "10.9.1"
+  sha256 "046bcb95c395e8b8bd9cda3a2ac9a6b6d4fae963d0c08bd0eeca464581ecfec4"
 
   url "https://github.com/nulljosh/cyllene/releases/download/v#{version}/Cyllene.dmg"
   name "Cyllene"
