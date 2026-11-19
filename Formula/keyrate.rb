@@ -10,6 +10,9 @@ class Keyrate < Formula
   on_macos do
     depends_on xcode: ["15.0", :build]
   end
+  on_linux do
+    depends_on "swift" => :build
+  end
 
   def install
     system "swift", "build", "--disable-sandbox", "-c", "release", "--package-path", "tui"
