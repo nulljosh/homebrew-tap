@@ -1,8 +1,8 @@
 class PlankLang < Formula
   desc "Compiled language you can read in an evening: one Python file on LLVM"
   homepage "https://plank.heyitsmejosh.com"
-  url "https://github.com/nulljosh/plank/archive/refs/tags/v4.6.1.tar.gz"
-  sha256 "4bf562c2eeafb7273369bfe8ba464e8dd6cee7f1bdb2fb999af9af5491f05e2b"
+  url "https://github.com/nulljosh/plank/archive/refs/tags/v4.7.0.tar.gz"
+  sha256 "67752a33ba2c75f463a15d00f6665bc5b2c8fde1811b84bc4b9b437d91b47a8b"
   license "MIT"
 
   depends_on "uv"
